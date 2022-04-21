@@ -1,6 +1,6 @@
 using System;
 
-namespace OperadoresComparativos {
+namespace EstruturasCondicionais {
     class Program {
         static void Main(string[] args) {
 
